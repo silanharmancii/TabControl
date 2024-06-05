@@ -1,0 +1,17 @@
+.main-div{
+    
+    border: 1px solid darkgray;
+}
+.main-div a{
+    text-decoration: none;
+    color: black;
+    font:bold;
+}
+
+.dp-none{
+    display: none;
+}
+
+.btn-color{
+    background-color: green;
+}
